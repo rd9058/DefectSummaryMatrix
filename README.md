@@ -35,6 +35,10 @@ Available Rakefile tasks are:
     rake deploy:info                # Display deploy information
     rake jslint                     # Run jslint on all JavaScript files used by this app, can be enabled by setting ENABLE_JSLINT=true.
 
+## Hey, this looks different...
+
+You may have noticed that the Defect Summary Matrix app in Rally's App Catalog is different from this version.  This new version of the app will be available on github following the release of the next version of the Rally App SDK.
+
 ## License
 
 DefectSummaryMatrix is released under the MIT license. See the file [LICENSE](https://raw.github.com/RallyApps/DefectSummaryMatrix/master/LICENSE) for the full text.
