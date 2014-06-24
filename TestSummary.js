@@ -10,7 +10,7 @@ function DefectSummaryMatrix() {
 	header.showPageTools(true);
 	header.removePageTool("print");
 	header.addPageTool({
-		key:"Previous Version",
+		key:"Previous Version",  
 		label:"Previous Version",
 		onClick:  function() {
 			if (parent && parent.window && parent.window.location) {
